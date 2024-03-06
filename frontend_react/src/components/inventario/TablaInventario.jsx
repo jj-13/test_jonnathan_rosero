@@ -45,7 +45,7 @@ export const TablaInventario = () => {
           html: "#my-table",
         });
     
-        doc.save("mypdf.pdf");
+        doc.save("pdf_jonnathan_rosero.pdf");
     }
 
     return (
