@@ -83,7 +83,7 @@ export const Layout = ({children}) => {
                         <div className="flex flex-shrink-0 items-center px-4">
                         <Link to='/' className="ml-4 mt-2">
                         <img
-                            src={'https://bafybeiczl4dcxupma2zeyilkukfl4yge64axnhajd722wxgin62mtts6uy.ipfs.w3s.link/murkivamarketing.png'}
+                            src={'https://png.pngtree.com/element_our/png/20180911/background-material-design-for-lorem-ipsum-logo-png_89719.jpg'}
                             width={160}
                             height={160}
                             className=""
@@ -126,7 +126,7 @@ export const Layout = ({children}) => {
                 <div className="flex flex-shrink-0 items-center px-4">
                 <Link to='/' className="ml-4 mt-2">
                     <img
-                        src={'https://bafybeiczl4dcxupma2zeyilkukfl4yge64axnhajd722wxgin62mtts6uy.ipfs.w3s.link/murkivamarketing.png'}
+                        src={'https://png.pngtree.com/element_our/png/20180911/background-material-design-for-lorem-ipsum-logo-png_89719.jpg'}
                         width={160}
                         height={160}
                         className=""

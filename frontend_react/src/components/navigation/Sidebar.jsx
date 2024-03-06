@@ -2,8 +2,7 @@ import {
   HomeIcon,
   RssIcon,
   MagnifyingGlassIcon,
-  BeakerIcon,
-  CheckIcon 
+  BeakerIcon
 } from '@heroicons/react/24/outline'
 import { NavLink, useLocation } from 'react-router-dom'
 
@@ -20,7 +19,7 @@ export const Sidebar = () => {
       { name: 'Home', href: '/home', icon: HomeIcon, current: location.pathname==='/home' ? true:false },
       { name: 'Empresa', href: '/empresa/list', icon: RssIcon, current: location.pathname==='/empresa/list' ? true:false },
       { name: 'Productos', href: '/productos', icon: BeakerIcon, current: location.pathname==='/productos' ? true:false },
-      { name: 'Inventario', href: '/inventario', icon: CheckIcon, current: location.pathname==='/inventario' ? true:false },
+      { name: 'Inventario', href: '/inventario', icon: MagnifyingGlassIcon, current: location.pathname==='/inventario' ? true:false },
       
   ]
   

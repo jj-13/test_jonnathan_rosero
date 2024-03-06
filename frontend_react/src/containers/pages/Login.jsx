@@ -111,8 +111,8 @@ export const Login = () => {
         <div className="w-full max-w-md space-y-8">
           <div>
             <img
-              className="mx-auto h-12 w-auto"
-              src="https://bafybeiczl4dcxupma2zeyilkukfl4yge64axnhajd722wxgin62mtts6uy.ipfs.w3s.link/murkivamarketing.png"
+              className="mx-auto h-22 w-auto"
+              src="https://png.pngtree.com/element_our/png/20180911/background-material-design-for-lorem-ipsum-logo-png_89719.jpg"
               alt="Your Company"
             />
           </div>
